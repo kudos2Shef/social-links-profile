@@ -71,6 +71,6 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [@kudos2Shef](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kudos2Shef](https://www.frontendmentor.io/profile/kudos2Shef)
 
 
