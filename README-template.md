@@ -28,6 +28,7 @@ Desktop:-
 ![socialDesktop](https://github.com/kudos2Shef/social-links-profile/assets/16985060/173a0ca7-5673-4155-ba0a-af978e54d104)
 
 Mobile:-
+
 ![socialMobile](https://github.com/kudos2Shef/social-links-profile/assets/16985060/3f82807e-8c4e-45ad-b773-4e8453560b1c)
 
 
@@ -59,9 +60,8 @@ To see how you can add code snippets, see below:
     font-family: 'Inter Regular';
     src:url(assets/fonts/static/Inter-Regular.ttf);
 
-}```
-
-
+}
+```
 
 ### Useful resources
 
