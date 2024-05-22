@@ -62,6 +62,7 @@ To see how you can add code snippets, see below:
 }```
 
 
+
 ### Useful resources
 
 - [Example resource 1](https://getbootstrap.com/docs/4.0/components/button-group/) - This helped me for aligning buttons vertically. I really liked this pattern and will use it going forward.
