@@ -34,7 +34,7 @@ Mobile:-
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://github.com/kudos2Shef/social-links-profile)
 - Live Site URL: [Live](https://social-links-profile-ashen.vercel.app/)
 
 ## My process
